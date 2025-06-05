@@ -41,6 +41,6 @@ Early detection of high attrition risk helps HR teams take proactive measures to
 - Prediction example returns:
 
 #### Attrition Prediction: Yes
-#### Attrition Probability: 0.61
+#### Attrition Probability: 0.95
 
 
