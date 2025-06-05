@@ -39,7 +39,8 @@ Early detection of high attrition risk helps HR teams take proactive measures to
 - Saved model using `joblib`
 - Built a reusable prediction script
 - Prediction example returns:
-- Attrition Prediction: Yes
-- Attrition Probability: 0.61
+
+### Attrition Prediction: Yes
+### Attrition Probability: 0.61
 
 
